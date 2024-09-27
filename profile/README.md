@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-Rusty Raccoon Labs is the home for all kind of experiments 🦝
+Rusty Raccoon Labs is the home for all kinds of experiments 🦝
 <!--
 
 **Here are some ideas to get you started:**
