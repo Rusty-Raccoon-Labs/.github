@@ -1,6 +1,9 @@
 ## Hi there 👋
 
 Rusty Raccoon Labs is the home for all kinds of experiments 🦝
+
+Kanbanan for [rust_tau_vue](
+https://github.com/orgs/Rusty-Raccoon-Labs/projects/3)
 <!--
 
 **Here are some ideas to get you started:**
