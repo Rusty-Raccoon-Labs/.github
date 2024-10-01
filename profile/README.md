@@ -4,6 +4,8 @@ Rusty Raccoon Labs is the home for all kinds of experiments 🦝
 
 Kanbanan for [rust_tau_vue](
 https://github.com/orgs/Rusty-Raccoon-Labs/projects/3)
+
+Repo for [rust_tau_vue](https://github.com/Rusty-Raccoon-Labs/Rust_Tau_Vue)
 <!--
 
 **Here are some ideas to get you started:**
